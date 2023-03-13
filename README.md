@@ -48,8 +48,12 @@ This project is focused on answering the following questions;
 
 ## Limitations
 
-    No statistical test were conducted hence we cannot conclude that this variables are the actual cause of whether a patient showed up or not.
-    The data only included a one or two times patients information which does not really reflect if patients showed or did not show up due to certain circumstances or establish patients attendance behaviour.
-    This dataset was obtained for only a particular year and months, there is no past data to find out whether upon introducction of sms reminders show up rate increased or decreased over the years.
-    These findings are solely based on this particular dataset of a particular geographical area hence cannot be generalised for all geographical areas.
-    This analysis did not cover the influence of Hospital Location and the influence of appointment day, scheduled day including wether number of days elasped since patient booked appointment and also wether patient was receiving quality healthcare services and wether patients condition was improving or detoriating after each visit. Further research needs to be conducted in thes areas.
+>No statistical test were conducted hence we cannot conclude that this variables are the actual cause of whether a patient showed up or not.
+    
+>The data only included a one or two times patients information which does not really reflect if patients showed or did not show up due to certain circumstances or establish patients attendance behaviour.
+    
+>This dataset was obtained for only a particular year and months, there is no past data to find out whether upon introducction of sms reminders show up rate increased or decreased over the years.
+    
+>These findings are solely based on this particular dataset of a particular geographical area hence cannot be generalised for all geographical areas.
+    
+>This analysis did not cover the influence of Hospital Location and the influence of appointment day, scheduled day including wether number of days elasped since patient booked appointment and also wether patient was receiving quality healthcare services and wether patients condition was improving or detoriating after each visit. Further research needs to be conducted in thes areas.
